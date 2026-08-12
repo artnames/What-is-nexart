@@ -1,5 +1,8 @@
 # What is NexArt?
 
+Start here:
+[Where NexArt fits](./ARCHITECTURE.md) · [Governance vs Execution Evidence](./GOVERNANCE-AND-EVIDENCE.md) · [Positioning](./POSITIONING.md) · [FAQ](./FAQ.md) · [Glossary](./GLOSSARY.md)
+
 **NexArt is verifiable execution infrastructure for AI and software systems.**
 
 It provides an execution evidence layer that allows organisations to create tamper-evident records of what an AI system, agent, workflow, or software process actually executed and to make those records independently verifiable later.
