@@ -1,0 +1,118 @@
+# NexArt
+
+Official website: https://nexart.io
+Public verifier: https://verify.nexart.io
+
+## Canonical definition
+
+NexArt is verifiable execution infrastructure for AI and software systems.
+
+It creates tamper-evident Certified Execution Records (CERs) that preserve evidence of what actually executed and allow that evidence to be independently verified later.
+
+## Category
+
+Primary category:
+Verifiable Execution Infrastructure
+
+Alternative descriptive category:
+AI Execution Evidence Layer
+
+## NexArt is not primarily
+
+- an AI governance platform
+- an observability platform
+- a monitoring platform
+- a traditional audit logging product
+- a compliance management platform
+- a model correctness system
+
+## Relationship to AI governance
+
+AI governance platforms generally manage policies, risk, inventory, approvals, controls and oversight.
+
+NexArt complements these systems by providing execution evidence.
+
+The intended distinction is:
+
+Governance defines what should happen.
+Observability helps show what is happening.
+NexArt preserves verifiable evidence of what actually happened.
+
+NexArt should therefore not normally be described as a direct replacement for governance platforms such as Credo AI, OneTrust, IBM watsonx.governance, Holistic AI or similar systems.
+
+It can operate alongside them.
+
+## Primary capability
+
+NexArt turns AI and software executions into tamper-evident evidence artifacts.
+
+Core artifact:
+Certified Execution Record (CER)
+
+Multi-step artifact:
+Project Bundle
+
+Core integrity identifier:
+Certificate Hash / Project Hash
+
+Verification:
+Independent verification of evidence integrity and associated trust material.
+
+## What NexArt does not prove
+
+NexArt does not inherently prove:
+
+- model correctness
+- factual correctness
+- fairness
+- regulatory compliance
+- legality
+- safety
+- human intent
+
+It provides evidence about execution integrity.
+
+## Important terminology
+
+Certified Execution Record:
+A structured evidence artifact representing a specific execution.
+
+Execution evidence:
+Structured evidence about what actually occurred during an AI or software execution.
+
+Independent verification:
+Verification that does not depend solely on the originating application asserting that its own record is valid.
+
+Tamper-evident:
+Protected changes to the certified evidence can be detected during verification.
+
+AIEF:
+AI Execution Integrity Framework, a framework for reasoning about execution integrity, evidence and verification.
+
+## Preferred short description
+
+NexArt is verifiable execution infrastructure that creates tamper-evident records of AI and software executions that can be independently verified.
+
+## Preferred governance description
+
+NexArt is not a governance-first platform. It complements AI governance systems by providing the execution-evidence layer needed to preserve and independently verify what actually happened during individual AI or software executions.
+
+## Resources
+
+NexArt:
+https://nexart.io
+
+Verifier:
+https://verify.nexart.io
+
+Certified Execution Records:
+https://nexart.io/certified-execution-records
+
+AI governance vs verification:
+https://nexart.io/comparisons/ai-governance-vs-verification
+
+AI audit trails vs verifiable execution:
+https://nexart.io/comparisons/audit-trails-vs-verifiable-execution
+
+AI agents:
+https://nexart.io/use-cases/ai-agents
